@@ -19,4 +19,3 @@
 
     <uses-permission android:name="android.permission.CAMERA" />
 </manifest>
-</create_file>
